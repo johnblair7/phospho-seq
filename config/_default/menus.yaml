@@ -19,6 +19,9 @@ main:
   - name: FAQ
     url: faq
     weight: 50
+  - name: Starter Kits
+    url: kits
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
