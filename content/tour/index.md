@@ -18,12 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Custom Antibody Panels
+        content: Panels of 100+ antibodies can be made from most commercial antibodies, cheaply and quickly
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: Slide2.png
             filters:
               brightness: 0.7
           position: center
