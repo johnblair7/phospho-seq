@@ -1,5 +1,5 @@
 ---
-# Leave the homepage title empty to use the site title
+#Leave the homepage title empty to use the site title
 title:Phospho-seq
 date: 2022-10-24
 type: landing
