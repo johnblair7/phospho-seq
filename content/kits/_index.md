@@ -59,7 +59,7 @@ sections:
 
 ---
 
-<img src="PhosphoseqKit.png" alt="kit" width="1000"/>
+<img src="PhosphoseqKit.png" alt="kit" width="600"/>
 
 ### About the Kits 
 <font size= “3”> In collaboration with the Center for Integrated Cellular Analysis (link: https://www.multimodalintegration.org/). We are happy to offer Phospho-seq Starter Kits to make it easier for users to try Phospho-seq out for themselves! If you are interested in receiving a kit, please fill out this form. We’ll follow up by e-mail with a standard Material Transfer Agreement and request for a FedEx account number.
