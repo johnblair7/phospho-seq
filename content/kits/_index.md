@@ -1,6 +1,5 @@
 ---
 title: Phospho-seq Starter Kits
-date: 2023-08-15
 type: landing
 
 sections:
@@ -58,7 +57,6 @@ sections:
       columns: '1'
 
 
-
 ---
 
 <img src="PhosphoseqKit.png" alt="kit" width="1000"/>
@@ -71,23 +69,22 @@ We have observed that one of the largest obstacles in performing antibody-based 
 We hope that these kits remove some of the barriers of entry to using this technology and are excited to see what users do with them!</font>
 
 ### Kit Components
-<font size= “3”>
-        - 20 mM mTz-PEG4-NHS (Click Chemistry Tools: 1069-10)
-          - 5 ul 
-        - 50 kDa MW cutoff filters (EMD Millipore: UFC 505024)
-          - 1
-        - 30 kDA MW cutoff filters (EMD Millipore: UFC 503096)
-          - 4
-        - 1 M glycine (BioBasic – GB0235-500 (powder))
-          - 20 ul
-        - 1X BBS buffer (Rockland - MB-050-1000)
-          - 15 ml
-        - TCO-PEG4-Gly (Made from Click Chemistry Tools: A137-10 and glycine)
-          - 50 ul
-        - TCO-PEG labeled TSB oligos
-          - 4 separately indexed oligos
-          - 10 ul/ oligo
-        - Pre-conjugated pRPS6 antibody
-          - 5 ul (3 ug)
-        - Bridge Oligo B
-          - 5 ul</font>
+- 20 mM mTz-PEG4-NHS (Click Chemistry Tools: 1069-10)
+  - 5 ul 
+- 50 kDa MW cutoff filters (EMD Millipore: UFC 505024)
+  - 1
+- 30 kDA MW cutoff filters (EMD Millipore: UFC 503096)
+  - 4
+- 1 M glycine (BioBasic – GB0235-500 (powder))
+  - 20 ul
+- 1X BBS buffer (Rockland - MB-050-1000)
+  - 15 ml
+- TCO-PEG4-Gly (Made from Click Chemistry Tools: A137-10 and glycine)
+   - 50 ul
+- TCO-PEG labeled TSB oligos
+  - 4 separately indexed oligos
+- 10 ul/ oligo
+  - Pre-conjugated pRPS6 antibody
+- 5 ul (3 ug)
+  - Bridge Oligo B
+ - 5 ul
