@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
-  - name: Custom Link
+  - name: BioRxiv
     url: https://www.biorxiv.org/content/10.1101/2023.03.27.534442v1
 url_pdf: https://www.biorxiv.org/content/10.1101/2023.03.27.534442v1.full.pdf
 
