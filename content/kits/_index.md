@@ -83,8 +83,8 @@ We hope that these kits remove some of the barriers of entry to using this techn
    - 50 ul
 - TCO-PEG labeled TSB oligos
   - 4 separately indexed oligos
-- 10 ul/ oligo
-  - Pre-conjugated pRPS6 antibody
-- 5 ul (3 ug)
-  - Bridge Oligo B
+  - 10 ul/ oligo
+- Pre-conjugated pRPS6 antibody
+  - 5 ul (3 ug)
+- Bridge Oligo B
  - 5 ul
