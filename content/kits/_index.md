@@ -8,7 +8,8 @@ sections:
   - block: contact
     content:
       title: Phospho-seq Starter Kits
-      text: |- In collaboration with the Center for Integrated Cellular Analysis (link: https://www.multimodalintegration.org/). We are happy to offer Phospho-seq Starter Kits to make it easier for users to try Phospho-seq out for themselves! If you are interested in receiving a kit, please fill out this form. We’ll follow up by e-mail with a standard Material Transfer Agreement and request for a FedEx account number.
+      text: |- 
+      In collaboration with the Center for Integrated Cellular Analysis (link: https://www.multimodalintegration.org/). We are happy to offer Phospho-seq Starter Kits to make it easier for users to try Phospho-seq out for themselves! If you are interested in receiving a kit, please fill out this form. We’ll follow up by e-mail with a standard Material Transfer Agreement and request for a FedEx account number.
 <br>
 We have observed that one of the largest obstacles in performing antibody-based single-cell protein profiling including ASAP-seq (link), inCITE-seq (link), NEAT-seq (link), QURIE-seq (link) and others is the limited commercial availability of pre-conjugated antibodies, especially for intracellular proteins. For Phospho-seq we adapted an already established click-chemistry-based DNA-antibody conjugation method (link to Van Buggenum) to create large panels of custom conjugated antibodies. In this Phospho-seq starter kit, we provide the material to conjugate up to four antibodies of the user’s choice with four separately indexed labeled TSB DNA oligos as well as a pre-conjugated control antibody for phospho-RPS6. We also provide a bridge oligo for use in the 10X scATAC-seq and scMultiome kits for antibody capture.
 <br>
