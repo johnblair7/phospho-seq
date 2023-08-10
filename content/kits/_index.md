@@ -1,12 +1,12 @@
 ---
 title: Phospho-seq Starter Kits
-date: 2022-10-24
+type: landing
 image: 
   caption: "Starter Kit"
   focal_point: Smart
 
 sections:
-  - block: contact_tech
+  - block: contact
     id: contact_tech
     content:
       title: Tech Sharing Kit Interest Form
@@ -58,7 +58,9 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-  - block: content_about_kits
+
+  - block: markdown
+    id: content_kit_components
     content:
       title: About the Kits
       text: >
@@ -68,7 +70,8 @@ sections:
 
         We hope that these kits remove some of the barriers of entry to using this technology and are excited to see what users do with them!
 
-  - block: content_kit_components
+  - block: markdown
+    id: content_kit_components
     content:
       title: Kit Components
       text: >
