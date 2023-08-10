@@ -15,7 +15,7 @@ We have observed that one of the largest obstacles in performing antibody-based 
 
 We hope that these kits remove some of the barriers of entry to using this technology and are excited to see what users do with them!
 
-Kit Components:
+Kit Components
 
 •	20 mM mTz-PEG4-NHS (Click Chemistry Tools: 1069-10)
 •	5 l 
