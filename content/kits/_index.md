@@ -4,7 +4,12 @@ type: landing
 image: 
   caption: "Starter Kit"
   focal_point: Smart
-
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+    
 sections:
   - block: contact
     id: contact_tech
@@ -99,7 +104,7 @@ sections:
 
 ---
 
-
+![picture of starter kit](featured.png "Kit")
 
 
 
