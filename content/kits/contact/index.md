@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Tech Sharing Kit Interest Form
 
 sections:
-  - block:  Tech Transfer Kit 
+  - block:  Tech Sharing Kit Interest Form
     content:
-      title: Contact
+      title: Tech Sharing Kit Interest Form
       text: |-
         Feel free to e-mail me with any questions regarding the method, protocols or anything else
       email: jblair@nygenome.org
