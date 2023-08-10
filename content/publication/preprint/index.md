@@ -1,9 +1,9 @@
 ---
-title: 'An example preprint / working paper'
+title: 'Phospho-seq: Integrated, multi-modal profiling of intracellular protein dynamics in single cells'
 authors:
   - admin
-date: '2019-04-07T00:00:00Z'
-doi: ''
+date: '2023-03-27'
+doi: '2023.03.27.534442'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -15,13 +15,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: 'Phospho-seq: Integrated, multi-modal profiling of intracellular protein dynamics in single cells'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Cell signaling plays a critical role in regulating cellular behavior and fate. While multimodal single-cell sequencing technologies are rapidly advancing, scalable and flexible profiling of cell signaling states alongside other molecular modalities remains challenging. Here we present Phospho-seq, an integrated approach that aims to quantify phosphorylated intracellular and intranuclear proteins, and to connect their activity with cis-regulatory elements and transcriptional targets. We utilize a simplified benchtop antibody conjugation method to create large custom antibody panels for simultaneous protein and scATAC-seq profiling on whole cells, and integrate this information with scRNA-seq datasets via bridge integration. We apply our workflow to cell lines, induced pluripotent stem cells, and 3-month-old brain organoids to demonstrate its broad applicability. We demonstrate that Phospho-seq can define cellular states and trajectories, reconstruct gene regulatory relationships, and characterize the causes and consequences of heterogeneous cell signaling in neurodevelopment.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Phospho-seq is a multimodal single cell genomics method to measure intracellular proteins, chromatin accessibility and gene expression
 
 tags:
   - Source Themes
@@ -29,20 +29,13 @@ featured: false
 
 links:
   - name: Custom Link
-    url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+    url: https://www.biorxiv.org/content/10.1101/2023.03.27.534442v1
+url_pdf: https://www.biorxiv.org/content/10.1101/2023.03.27.534442v1.full.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
