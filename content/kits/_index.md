@@ -87,4 +87,4 @@ We hope that these kits remove some of the barriers of entry to using this techn
 - Pre-conjugated pRPS6 antibody
   - 5 ul (3 ug)
 - Bridge Oligo B
- - 5 ul
+  - 5 ul
