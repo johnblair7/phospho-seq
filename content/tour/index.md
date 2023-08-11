@@ -38,6 +38,26 @@ sections:
               brightness: 1
           position: center
           color: '#333'
+      - title: 
+        content: 
+        align: right
+        background:
+          image:
+            filename: Slide4.png
+            filters:
+              brightness: 1
+          position: center
+          color: '#333'
+      - title: 
+        content: 
+        align: right
+        background:
+          image:
+            filename: Slide5.png
+            filters:
+              brightness: 1
+          position: center
+          color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '800px'
