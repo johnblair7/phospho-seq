@@ -2,69 +2,14 @@
 title: Phospho-seq Starter Kits
 type: landing
 
-sections:
-  - block: contact
-    id: contact_tech
-    content:
-      title: Tech Sharing Kit Interest Form
-      subtitle: ''
-      text: ''
-      # Contact details - edit or remove options as needed
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display them just as text?
-      autolink: true
-      # Choose an email form provider (netlify/formspree)
-      form:
-        provider: netlify
-        formspree:
-          # If using Formspree, enter your Formspree form ID
-          id: ''
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-      # Coordinates to display a map - set your map provider in `params.yaml`
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-
-
 ---
 
 <img src="PhosphoseqKit.png" alt="kit" width="600"/>
 
 ### About the Kits 
-<font size= “3”> In collaboration with the Center for Integrated Cellular Analysis (link: https://www.multimodalintegration.org/). We are happy to offer Phospho-seq Starter Kits to make it easier for users to try Phospho-seq out for themselves! If you are interested in receiving a kit, please fill out this form. We’ll follow up by e-mail with a standard Material Transfer Agreement and request for a FedEx account number.
+<font size= “3”> In collaboration with the <a href="https://www.multimodalintegration.org/" target="_blank">Center for Integrated Cellular Analysis</a>, We are happy to offer Phospho-seq Starter Kits to make it easier for users to try Phospho-seq out for themselves! If you are interested in receiving a kit, please click <a href="https://www.multimodalintegration.org/techsharing" target="_blank">here</a> and fill out the form. We’ll follow up by e-mail with a standard Material Transfer Agreement and request for a FedEx account number.
         
-We have observed that one of the largest obstacles in performing antibody-based single-cell protein profiling including ASAP-seq (link), inCITE-seq (link), NEAT-seq (link), QURIE-seq (link) and others is the limited commercial availability of pre-conjugated antibodies, especially for intracellular proteins. For Phospho-seq we adapted an already established click-chemistry-based DNA-antibody conjugation method (link to Van Buggenum) to create large panels of custom conjugated antibodies. In this Phospho-seq starter kit, we provide the material to conjugate up to four antibodies of the user’s choice with four separately indexed labeled TSB DNA oligos as well as a pre-conjugated control antibody for phospho-RPS6. We also provide a bridge oligo for use in the 10X scATAC-seq and scMultiome kits for antibody capture.
+We have observed that one of the largest obstacles in performing antibody-based single-cell protein profiling including <a href="https://www.nature.com/articles/s41587-021-00927-2" target="_blank">ASAP-Seq</a>, <a href="https://www.nature.com/articles/s41592-021-01278-1" target="_blank">InCite-Seq</a>, <a href="https://www.nature.com/articles/s41592-022-01461-y" target="_blank">NEAT-Seq</a>,<a href="https://www.sciencedirect.com/science/article/pii/S2667237521001223" target="_blank">QURIE-Seq</a> and others is the limited commercial availability of pre-conjugated antibodies, especially for intracellular proteins. For Phospho-seq we adapted an already established <a href="https://www.nature.com/articles/srep22675" target="_blank">click-chemistry-based DNA-antibody conjugation method</a>  to create large panels of custom conjugated antibodies. In this Phospho-seq starter kit, we provide the material to conjugate up to four antibodies of the user’s choice with four separately indexed labeled TSB DNA oligos as well as a pre-conjugated control antibody for phospho-RPS6. We also provide a bridge oligo for use in the 10X scATAC-seq and scMultiome kits for antibody capture.
 
 We hope that these kits remove some of the barriers of entry to using this technology and are excited to see what users do with them!</font>
 
@@ -88,3 +33,4 @@ We hope that these kits remove some of the barriers of entry to using this techn
   - 5 ul (3 ug)
 - Bridge Oligo B
   - 5 ul
+
