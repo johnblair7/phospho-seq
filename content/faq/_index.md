@@ -21,5 +21,5 @@ type: landing
 
 ### Is Phospho-seq compatible with 10X Multiome (scATAC + scRNA) kits? 
 
-<font size= “3”>	Yes it is, although when using TSB tags, the capture efficiency is slightly lower because the ATAC modality is already being captured by a bridge oligo (the splint probe – link to teach lab), so therefore you are using two bridges. If using TSA tags, you can directly capture like in NEAT-seq. It should be noted that running the multiome on fixed tissue results in significantly lower RNA data quality and we highly recommend using bridge integration (Hao et al 2023) as an alternative if you have appropriate bridge and reference datasets available.  
+<font size= “3”>	Yes it is, although when using TSB tags, the capture efficiency is slightly lower because the ATAC modality is already being captured by a bridge oligo (the splint probe – link to teach lab), so therefore you are using two bridges. If using TSA tags, you can directly capture like in NEAT-seq. It should be noted that running the multiome on fixed tissue results in significantly lower RNA data quality and we highly recommend using <a href="https://www.nature.com/articles/s41587-023-01767-y" target="_blank">Bridge Integration (Hao et al., 2023) </a> as an alternative if you have appropriate bridge and reference datasets available.  
 
