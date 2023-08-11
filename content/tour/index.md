@@ -8,39 +8,39 @@ sections:
   - block: slider
     content:
       slides:
-      - title: About Phospho-seq
+      - title: 
         content: 
         align: center
         background:
           image:
             filename: Slide1.png
             filters:
-              brightness: 0.7
+              brightness: 1
           position: right
           color: '#666'
-      - title: Custom Antibody Panels
-        content: Panels of 100+ antibodies can be made from most commercial antibodies, cheaply and quickly
+      - title: 
+        content: 
         align: left
         background:
           image:
             filename: Slide2.png
             filters:
-              brightness: 0.7
+              brightness: 1
           position: center
           color: '#555'
-      - title: Experimental Procedure
+      - title: 
         content: 
         align: right
         background:
           image:
             filename: Slide3.png
             filters:
-              brightness: 0.5
+              brightness: 1
           position: center
           color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400px'
+      slide_height: 
       is_fullscreen: false
       # Automatically transition through slides?
       loop: false
