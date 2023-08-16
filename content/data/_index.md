@@ -9,6 +9,12 @@ Below are plots from these processed datasets emphasizing ADT expression for eac
 
 <head>
     <title>Dropdown Menu Example</title>
+  <style>
+        #selected-image {
+            max-width: 800px;
+            max-height: 800px;
+        }
+    </style>
 </head>
 <body>
     <label for="category">Select a dataset:</label>
@@ -16,7 +22,7 @@ Below are plots from these processed datasets emphasizing ADT expression for eac
         <optgroup label="Brain Organoids">
             <option value="SOX2">SOX2</option>
             <option value="GLI3">GLI3</option>
-            <option value="TBR2">TBR2</option>
+            <option value="TBR1">TBR1</option>
         </optgroup>
         <optgroup label="Retinal Organoids">
             <option value="SOX2">SOX2</option>
@@ -29,5 +35,30 @@ Below are plots from these processed datasets emphasizing ADT expression for eac
             <option value="GATA1">GATA1</option>
         </optgroup>
     </select>
+    <br>
+    <img id="selected-image" src="" alt="Selected Image">
+    <script>
+        const categoryDropdown = document.getElementById('category');
+        const selectedImage = document.getElementById('selected-image');
+
+        categoryDropdown.addEventListener('change', function() {
+            const selectedValue = categoryDropdown.value;
+            selectedImage.src = getImageSource(selectedValue);
+        });
+
+        function getImageSource(value) {
+            switch (value) {
+                case 'SOX2':
+                    return 'SOX2.png'; // Replace with your image file path
+                case 'GLI3':
+                    return 'GLI3.png'; // Replace with your image file path
+                case 'TBR1':
+                    return 'TBR1.png'; // Replace with your image file path
+                default:
+                    return ''; // No image for other values
+            }
+        }
+    </script>
 </body>
 </html>
+
