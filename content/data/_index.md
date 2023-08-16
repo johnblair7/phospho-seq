@@ -11,22 +11,22 @@ Below are plots from these processed datasets emphasizing ADT expression for eac
     <title>Dropdown Menu Example</title>
 </head>
 <body>
-    <label for="category">Select a category:</label>
+    <label for="category">Select a dataset:</label>
     <select id="category">
-        <optgroup label="Fruits">
-            <option value="apple">Apple</option>
-            <option value="banana">Banana</option>
-            <option value="orange">Orange</option>
+        <optgroup label="Brain Organoids">
+            <option value="SOX2">Apple</option>
+            <option value="GLI3">Banana</option>
+            <option value="TBR2">Orange</option>
         </optgroup>
-        <optgroup label="Vegetables">
-            <option value="carrot">Carrot</option>
-            <option value="broccoli">Broccoli</option>
-            <option value="lettuce">Lettuce</option>
+        <optgroup label="Retinal Organoids">
+            <option value="SOX2">Carrot</option>
+            <option value="SOX9">Broccoli</option>
+            <option value="YAP1">Lettuce</option>
         </optgroup>
-        <optgroup label="Dairy">
-            <option value="milk">Milk</option>
-            <option value="cheese">Cheese</option>
-            <option value="yogurt">Yogurt</option>
+        <optgroup label="Cell Lines">
+            <option value="SOX2">Milk</option>
+            <option value="OCT4">Cheese</option>
+            <option value="GATA1">Yogurt</option>
         </optgroup>
     </select>
 </body>
