@@ -54,8 +54,8 @@ type: landing
 	<div class="dropdown"> 
 		<button class="dropdown-button">Dropdown</button> 
 		<div class="dropdown-list"> 
-			<a href="a.md">SOX2</a> 
-			<a href="#">GLI3</a> 
+			<a href="sox2/">SOX2</a> 
+			<a href="gli3/">GLI3</a> 
 			<a href="#">TBR1</a> 
 		</div> 
 	</div> 
