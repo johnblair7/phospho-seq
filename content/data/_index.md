@@ -7,8 +7,6 @@ type: landing
 
 Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression and chromVAR scores if applicable.
 
-<!DOCTYPE html>
-<html>
 <head>
     <title>Dropdown Menu Example</title>
 </head>
