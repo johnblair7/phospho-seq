@@ -45,22 +45,13 @@ Below are plots from these processed datasets emphasizing ADT expression for eac
 
         categoryDropdown.addEventListener('change', function() {
             const selectedValue = categoryDropdown.value;
-            selectedImage.src = getImageSource(selectedValue);
+            selectedImage.src = `${selectedValue}.png`;
         });
-
-        function getImageSource(value) {
-            switch (value) {
-                case 'SOX2':
-                    return 'SOX2.png'; // Replace with your image file path
-                case 'GLI3':
-                    return 'GLI3.png'; // Replace with your image file path
-                case 'TBR1':
-                    return 'TBR1.png'; // Replace with your image file path
-                default:
-                    return ''; // No image for other values
-            }
-        }
     </script>
 </body>
 </html>
+
+
+
+<img src="SOX2.png" alt="kit" width="600"/>
 
