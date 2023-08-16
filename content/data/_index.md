@@ -14,19 +14,19 @@ Below are plots from these processed datasets emphasizing ADT expression for eac
     <label for="category">Select a dataset:</label>
     <select id="category">
         <optgroup label="Brain Organoids">
-            <option value="SOX2">Apple</option>
-            <option value="GLI3">Banana</option>
-            <option value="TBR2">Orange</option>
+            <option value="SOX2">SOX2</option>
+            <option value="GLI3">GLI3</option>
+            <option value="TBR2">TBR2</option>
         </optgroup>
         <optgroup label="Retinal Organoids">
-            <option value="SOX2">Carrot</option>
-            <option value="SOX9">Broccoli</option>
-            <option value="YAP1">Lettuce</option>
+            <option value="SOX2">SOX2</option>
+            <option value="SOX9">SOX9</option>
+            <option value="YAP1">YAP1</option>
         </optgroup>
         <optgroup label="Cell Lines">
-            <option value="SOX2">Milk</option>
-            <option value="OCT4">Cheese</option>
-            <option value="GATA1">Yogurt</option>
+            <option value="SOX2">SOX2</option>
+            <option value="OCT4">OCT4</option>
+            <option value="GATA1">GATA1</option>
         </optgroup>
     </select>
 </body>
