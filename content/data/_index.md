@@ -2,6 +2,8 @@
 title: Data
 type: landing
 
+view: showcase
+
 sections:
   - block: markdown
     id: protcol_2
@@ -60,7 +62,7 @@ sections:
 	<div class="dropdown"> 
 		<button class="dropdown-button">Dropdown</button> 
 		<div class="dropdown-list"> 
-			<a href="protcol_2/">SOX2</a> 
+			<a href="a.md">SOX2</a> 
 			<a href="#">This is Link 2</a> 
 			<a href="#">This is Link 3</a> 
 		</div> 
