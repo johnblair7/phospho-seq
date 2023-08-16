@@ -7,31 +7,13 @@ type: landing
 <html>
 <head>
     <title>Dropdown Menu Example</title>
-    <style>
-        #selected-image {
-            max-width: 800px;
-            max-height: 800px;
-        }
-    </style>
 </head>
 <body>
-    <p style="font-size: 16px;"> All data is available in preprocessed Seurat Objects from <a href="https://zenodo.org/record/7754315">Zenodo</a></p>
-
     <label for="category">Select a dataset:</label>
     <select id="category">
-        <optgroup label="Brain Organoids">
-            <option value="SOX2">SOX2</option>
-            <option value="GLI3">GLI3</option>
-            <option value="TBR1">TBR1</option>
-        </optgroup>
-        <optgroup label="Retinal Organoids">
-            <option value="SOX9">SOX9</option>
-            <option value="YAP1">YAP1</option>
-        </optgroup>
-        <optgroup label="Cell Lines">
-            <option value="OCT4">OCT4</option>
-            <option value="GATA1">GATA1</option>
-        </optgroup>
+        <option value="" selected disabled>Select an antibody</option>
+        <option value="SOX2">SOX2</option>
+        <option value="GLI3">GLI3</option>
     </select>
     <br>
     <img id="selected-image" src="" alt="Selected Image">
@@ -41,11 +23,12 @@ type: landing
 
         categoryDropdown.addEventListener('change', function() {
             const selectedValue = categoryDropdown.value;
-            selectedImage.src = `${selectedValue}.png`;
+            selectedImage.src = `${selectedValue.toLowerCase()}.png`;
         });
     </script>
 </body>
 </html>
+
 
 
 <img src="SOX2.png" alt="kit" width="600"/>
