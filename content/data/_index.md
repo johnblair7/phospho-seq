@@ -1,5 +1,3 @@
----
-title: Data
 
 <!DOCTYPE html>
 <html>
