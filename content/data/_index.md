@@ -54,7 +54,7 @@ type: landing
 	<div class="dropdown"> 
 		<button class="dropdown-button">Dropdown</button> 
 		<div class="dropdown-list"> 
-			<a href="protocol_2">This is Link 1</a> 
+			<a href="protocol_2/">This is Link 1</a> 
 			<a href="#">This is Link 2</a> 
 			<a href="#">This is Link 3</a> 
 		</div> 
