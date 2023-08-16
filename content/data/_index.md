@@ -5,13 +5,9 @@ type: landing
 ---
 <!DOCTYPE html>
 <html>
-<font size= “3”> All data is available in preprocesed Seurat Objects from <a href="https://zenodo.org/record/7754315">Zenodo</a>
-
-Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression and chromVAR scores if applicable.
-
 <head>
     <title>Dropdown Menu Example</title>
-  <style>
+    <style>
         #selected-image {
             max-width: 800px;
             max-height: 800px;
@@ -19,6 +15,8 @@ Below are plots from these processed datasets emphasizing ADT expression for eac
     </style>
 </head>
 <body>
+    <p style="font-size: 16px;"> All data is available in preprocessed Seurat Objects from <a href="https://zenodo.org/record/7754315">Zenodo</a></p>
+
     <label for="category">Select a dataset:</label>
     <select id="category">
         <optgroup label="Brain Organoids">
@@ -27,12 +25,10 @@ Below are plots from these processed datasets emphasizing ADT expression for eac
             <option value="TBR1">TBR1</option>
         </optgroup>
         <optgroup label="Retinal Organoids">
-            <option value="SOX2">SOX2</option>
             <option value="SOX9">SOX9</option>
             <option value="YAP1">YAP1</option>
         </optgroup>
         <optgroup label="Cell Lines">
-            <option value="SOX2">SOX2</option>
             <option value="OCT4">OCT4</option>
             <option value="GATA1">GATA1</option>
         </optgroup>
@@ -52,6 +48,4 @@ Below are plots from these processed datasets emphasizing ADT expression for eac
 </html>
 
 
-
 <img src="SOX2.png" alt="kit" width="600"/>
-
