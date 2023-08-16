@@ -3,8 +3,6 @@ title: Data
 type: landing
 
 ---
-
-
 <!DOCTYPE html>
 <html> 
 <head> 
@@ -64,3 +62,4 @@ type: landing
 </body> 
 </html> 
 
+<img src="SOX2.png" alt="kit" width="600"/>
