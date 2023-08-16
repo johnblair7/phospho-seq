@@ -2,6 +2,12 @@
 title: Data
 type: landing
 
+sections:
+  - block: markdown
+    id: protcol_2
+    content:
+      title: Section 1
+      subtitle: A subtitle
 ---
 <!DOCTYPE html>
 <html> 
