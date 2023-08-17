@@ -52,7 +52,7 @@ type: landing
 </head> 
 <body> 
 	<div class="dropdown"> 
-		<button class="dropdown-button">Dropdown</button> 
+		<button class="dropdown-button">Choose an Antibody</button> 
 		<div class="dropdown-list"> 
 			<a href="sox2/">SOX2</a> 
 			<a href="gli3/">GLI3</a> 
