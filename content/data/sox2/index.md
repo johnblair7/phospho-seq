@@ -38,10 +38,10 @@ url_source: '#'
 url_video: '#'
 
 # Featured image
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ''
-  preview_only: false
+#image:
+ # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+ # focal_point: ''
+ # preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -59,4 +59,17 @@ projects:
 slides:
 ---
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<div style="display: flex; justify-content: space-between;">
+    <figure>
+        <img src="featured.png" alt="Dataset 1" width="30%">
+        <figcaption>Caption for Image 1</figcaption>
+    </figure>
+    <figure>
+        <img src="featured.png" alt="Dataset 2" width="30%">
+        <figcaption>Caption for Image 2</figcaption>
+    </figure>
+    <figure>
+        <img src="featured.png" alt="Dataset 3" width="30%">
+        <figcaption>Caption for Image 3</figcaption>
+    </figure>
+</div>
