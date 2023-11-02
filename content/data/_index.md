@@ -13,7 +13,7 @@ All data is available in preprocessed Seurat Objects from [Zenodo](https://zenod
 /* Dropdown Button */ 
 .dropdown-button { 
     background-color: #0000b3; 
-    color: white; 
+    color: white;
     padding: 16px; 
     font-size: 16px; 
     border: none; 
@@ -25,11 +25,11 @@ All data is available in preprocessed Seurat Objects from [Zenodo](https://zenod
 /* Dropdown Content (Hidden by Default) */ 
 .dropdown-list { 
     display: none; 
-    position: relative; 
+    position: absolute; 
     background-color: #f1f1f1; 
     min-width: 160px; 
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
-    z-index: 1; 
+    z-index: 1000; 
 } 
 /* Links inside the dropdown */ 
 .dropdown-list a { 
