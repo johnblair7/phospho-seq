@@ -28,16 +28,9 @@ tags:
 featured: false
 
 links:
-  - name: Custom Link
-    url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+  - name: Original Reference
+    url: https://www.nature.com/articles/srep22675
+url_pdf: /post/protocol_2/PhosphoKit_Protocol.pdf
 
 # Featured image
 image:
