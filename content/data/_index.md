@@ -55,11 +55,11 @@ All data is available in preprocessed Seurat Objects from [Zenodo](https://zenod
 <body> 
 	<div class="dropdown"> 
 		<button class="dropdown-button">Choose an Antibody</button> 
-		<div class="dropdown-list"> 
-			<a href="sox2/">SOX2</a> 
-			<a href="gli3/">GLI3</a> 
-			<a href="#">TBR1</a> 
-		</div> 
+		    <div class="dropdown-list"> 
+			    <a href="sox2/">SOX2</a> 
+			    <a href="gli3/">GLI3</a> 
+			    <a href="#">TBR1</a> 
+		    </div> 
 	</div> 
 </body> 
 </html> 
