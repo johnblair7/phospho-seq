@@ -25,7 +25,7 @@ All data is available in preprocessed Seurat Objects from [Zenodo](https://zenod
 /* Dropdown Content (Hidden by Default) */ 
 .dropdown-list { 
     display: none; 
-    position: absolute; 
+    position: relative; 
     background-color: #f1f1f1; 
     min-width: 160px; 
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
@@ -70,3 +70,5 @@ ul {
     </div>
 </body> 
 </html> 
+
+iauhfisdnf
