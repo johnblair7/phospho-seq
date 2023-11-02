@@ -25,7 +25,7 @@ tags:
   - Source Themes
 featured: false
 
-links:
+links:git 
   - name: Link to Vendor
     url: http://example.org
 
@@ -52,16 +52,17 @@ slides:
 ---
 
 <div style="display: flex; justify-content: space-between;">
-    <figure>
-        <img src="test.png" alt="Dataset 1" width="30%">
-        <figcaption>Dataset 1</figcaption>
-    </figure>
-    <figure>
-        <img src="test.png" alt="Dataset 2" width="30%">
-        <figcaption>Dataset 2</figcaption>
-    </figure>
-    <figure>
-        <img src="test.png" alt="Dataset 3" width="30%">
-        <figcaption>Dataset 3</figcaption>
-    </figure>
+
+<a href="test.png>
+    <img src="test.png" alt="Alternative text for Image 1">
+</a>
+<a href="test.png">
+    <img src="test.png" alt="Alternative text for Image 2">
+</a>
+<a href="test.png">
+    <img src="test.png" alt="Alternative text for Image 3">
+</a>
+
 </div>
+
+Dataset 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Dataset 2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Dataset 3
