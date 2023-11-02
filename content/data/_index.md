@@ -2,6 +2,13 @@
 title: Data
 type: landing
 
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+columns: '2'
+
 ---
 
 All data is available in preprocessed Seurat Objects from [Zenodo](https://zenodo.org/record/7754315). Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression, and chromVAR scores if applicable.
