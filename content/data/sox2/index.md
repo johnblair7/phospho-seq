@@ -53,7 +53,7 @@ slides:
 
 <div style="display: flex; justify-content: space-between;">
 
-<a href="test.png>
+<a href="test.png">
     <img src="test.png" alt="Alternative text for Image 1">
 </a>
 <a href="test.png">
