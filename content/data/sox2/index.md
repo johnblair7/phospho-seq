@@ -61,15 +61,15 @@ slides:
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
-        <img src="featured.png" alt="Dataset 1" width="30%">
-        <figcaption>Caption for Image 1</figcaption>
+        <img src="test.png" alt="Dataset 1" width="30%">
+        <figcaption>Dataset 1</figcaption>
     </figure>
     <figure>
-        <img src="featured.png" alt="Dataset 2" width="30%">
-        <figcaption>Caption for Image 2</figcaption>
+        <img src="test.png" alt="Dataset 2" width="30%">
+        <figcaption>Dataset 2</figcaption>
     </figure>
     <figure>
-        <img src="featured.png" alt="Dataset 3" width="30%">
-        <figcaption>Caption for Image 3</figcaption>
+        <img src="test.png" alt="Dataset 3" width="30%">
+        <figcaption>Dataset 3</figcaption>
     </figure>
 </div>
