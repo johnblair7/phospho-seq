@@ -2,14 +2,15 @@
 title: Data
 type: landing
 
+view: 3
 
 sections:
   - block: collection
-    id: data
+    id: antibodies
     content:
       title: All Antibodies
       subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      text: 'Scroll through all antibody options below'
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
