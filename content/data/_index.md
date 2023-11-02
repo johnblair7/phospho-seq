@@ -65,6 +65,8 @@ All data is available in preprocessed Seurat Objects from [Zenodo](https://zenod
     background-color: #f1f1f1; 
     min-width: 160px; 
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
+    max-height: 150px;  
+    overflow-y: auto;
     z-index: 1000; 
 } 
 /* Links inside the dropdown */ 
@@ -105,6 +107,9 @@ ul {
         <li><a href="sox2/">SOX2</a></li>
         <li><a href="gli3/">GLI3</a> </li>
         <li><a href="#">TBR1</a> </li>
+        <li><a href="#">TEST1</a> </li>
+        <li><a href="#">TEST2</a> </li>
+        <li><a href="#">TEST3</a> </li>
     </ul>
     </div>
 </body> 
