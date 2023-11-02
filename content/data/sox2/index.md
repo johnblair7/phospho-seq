@@ -50,28 +50,38 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+<style>
+.image-container {
+  display: inline-block;
+  width: 40%; 
+  margin: 10px;
+  text-align: center;
+}
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+.image-container img {
+  width: 100%;
+  height: auto;
+}
 
-<figure>
+</style>
+
+<div class="image-container">
     <a href="test.png">
-        <img src="test.png" alt="Alternative text for Image 1" style="width: 30%;">
+        <img src="test.png" alt="Alternative text for Image 1">
     </a>
-    <figcaption>Dataset 1</figcaption>
-</figure>
+    <div>Dataset 1</div>
+</div>
 
-<figure>
+<div class="image-container">
     <a href="test.png">
-        <img src="test.png" alt="Alternative text for Image 2" style="width: 30%;">
+        <img src="test.png" alt="Alternative text for Image 2">
     </a>
-    <figcaption>Dataset 2</figcaption>
-</figure>
+    <div>Dataset 2</div>
+</div>
 
-<figure>
+<div class="image-container">
     <a href="test.png">
-        <img src="test.png" alt="Alternative text for Image 3" style="width: 30%;">
+        <img src="test.png" alt="Alternative text for Image 3">
     </a>
-    <figcaption>Dataset 3</figcaption>
-</figure>
-
+    <div>Dataset 3</div>
 </div>
