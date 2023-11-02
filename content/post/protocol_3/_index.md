@@ -1,5 +1,5 @@
 ---
-title: 'Sequencing'
+title: 'Phospho-seq with the 10x Multiome Kit'
 authors:
   - admin
 date: '2019-04-07T00:00:00Z'
@@ -28,8 +28,8 @@ tags:
 featured: false
 
 links:
-  - name: Original Reference
-    url: https://www.nature.com/articles/srep22675
+  - name: Related Reference
+    url: https://www.nature.com/articles/s41592-022-01461-y
 url_pdf: /post/protocol_3/PhosphoseqMulti_Protocol.pdf
 
 # Featured image
