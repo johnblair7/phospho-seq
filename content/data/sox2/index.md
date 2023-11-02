@@ -51,18 +51,27 @@ projects:
 slides:
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
 
-<a href="test.png">
-    <img src="test.png" alt="Alternative text for Image 1">
-</a>
-<a href="test.png">
-    <img src="test.png" alt="Alternative text for Image 2">
-</a>
-<a href="test.png">
-    <img src="test.png" alt="Alternative text for Image 3">
-</a>
+<figure>
+    <a href="test.png">
+        <img src="test.png" alt="Alternative text for Image 1" style="width: 30%;">
+    </a>
+    <figcaption>Dataset 1</figcaption>
+</figure>
+
+<figure>
+    <a href="test.png">
+        <img src="test.png" alt="Alternative text for Image 2" style="width: 30%;">
+    </a>
+    <figcaption>Dataset 2</figcaption>
+</figure>
+
+<figure>
+    <a href="test.png">
+        <img src="test.png" alt="Alternative text for Image 3" style="width: 30%;">
+    </a>
+    <figcaption>Dataset 3</figcaption>
+</figure>
 
 </div>
-
-Dataset 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Dataset 2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Dataset 3
