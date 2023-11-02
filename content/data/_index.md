@@ -50,17 +50,22 @@ All data is available in preprocessed Seurat Objects from [Zenodo](https://zenod
 .dropdown:hover .dropdown-button { 
     background-color: #6666ff; 
 } 
+/* Change the background color of the dropdown button when the dropdown list is shown */ 
+ul { 
+    list-style-type: none; 
+} 
 </style> 
 </head> 
 <body> 
-    <label for="antibodies">Choose an Antibody</label>
-	<div class="dropdown"> 
-        <select class="dropdown-button" name="antibodies" id="antibodies">
-        <option value="SOX2"><a href="sox2/">SOX2</a></option>
-        <option value="GLI3"><a href="gli3/">GLI3</a> </option>
-        <option value="TBR1"><a href="#">TBR1</a> </option>
-        </select>
-	</div> 
+    <div class="dropdown">
+    <button class="dropdown-button" type="button" data-toggle="dropdown">Choose an Antibody
+    <span class="caret"></span></button>
+    <ul class="dropdown-list">
+        <li><a href="sox2/">SOX2</a></li>
+        <li><a href="gli3/">GLI3</a> </li>
+        <li><a href="#">TBR1</a> </li>
+    </ul>
+    </div>
 </body> 
 </html> 
 
