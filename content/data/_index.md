@@ -56,9 +56,7 @@ type: landing
 </head>
 <body>
 <div class="content">
-    All data is available in preprocessed Seurat Objects from <a href="https://zenodo.org/record/7754315">Zenodo</a>.
-
-    Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression, and chromVAR scores if applicable.
+    All data is available in preprocessed Seurat Objects from <a href="https://zenodo.org/record/7754315">Zenodo</a>. Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression, and chromVAR scores if applicable.
 </div>
 
 <div class="dropdown">
