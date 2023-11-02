@@ -25,23 +25,15 @@ tags:
   - Source Themes
 featured: false
 
-links:
-  - name: Custom Link
+links: 
+  - name: Link to Vendor
     url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ''
-  preview_only: false
+#image:
+ # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+ # focal_point: ''
+ # preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -58,5 +50,38 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+<style>
+.image-container {
+  display: inline-block;
+  width: 40%; 
+  margin: 10px;
+  text-align: center;
+}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+</style>
+
+<div class="image-container">
+    <a href="test.png">
+        <img src="test.png" alt="Alternative text for Image 1">
+    </a>
+    <div>Dataset 1</div>
+</div>
+
+<div class="image-container">
+    <a href="test.png">
+        <img src="test.png" alt="Alternative text for Image 2">
+    </a>
+    <div>Dataset 2</div>
+</div>
+
+<div class="image-container">
+    <a href="test.png">
+        <img src="test.png" alt="Alternative text for Image 3">
+    </a>
+    <div>Dataset 3</div>
+</div>
