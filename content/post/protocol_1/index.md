@@ -30,7 +30,7 @@ featured: false
 links:
   - name: Original Reference
     url: https://www.nature.com/articles/srep22675
-url_pdf: static/PhosphoKit_Protocol.pdf
+url_pdf: /post/protocol_1/PhosphoKit_Protocol.pdf
 
 # Featured image
 image:
