@@ -4,6 +4,8 @@ type: landing
 
 ---
 
+All data is available in preprocessed Seurat Objects from [Zenodo](https://zenodo.org/record/7754315). Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression, and chromVAR scores if applicable.
+
 <!DOCTYPE html>
 <html> 
 <head> 
@@ -23,7 +25,7 @@ type: landing
 /* Dropdown Content (Hidden by Default) */ 
 .dropdown-list { 
     display: none; 
-    position: absolute; 
+    position: relative; 
     background-color: #f1f1f1; 
     min-width: 160px; 
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
@@ -36,6 +38,7 @@ type: landing
     text-decoration: none; 
     display: block; 
     font-family: verdana; 
+    z-index: 1000;
 } 
 /* Change color of dropdown links on hover */ 
 .dropdown-list a:hover { 
@@ -67,7 +70,3 @@ ul {
     </div>
 </body> 
 </html> 
-
-
-All data is available in preprocessed Seurat Objects from [Zenodo](https://zenodo.org/record/7754315). Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression, and chromVAR scores if applicable.
-
