@@ -5,39 +5,6 @@ type: landing
 view: 3
 columns: '2'
 
-sections:
-  - block: collection
-    id: antibodies
-    content:
-      title: All Antibodies
-      subtitle: ''
-      text: 'Scroll through all antibody options below'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - data
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Title'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
-      # Choose single or dual column layout
-      columns: '2'
 ---
 
 All data is available in preprocessed Seurat Objects from [Zenodo](https://zenodo.org/record/7754315). Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression, and chromVAR scores if applicable.
