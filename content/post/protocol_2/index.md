@@ -21,16 +21,16 @@ publication_short: ''
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A guide to running Phospho-seq with the 10x scATAC kit.
 
 tags:
   - Source Themes
 featured: false
 
 links:
-  - name: Original Reference
-    url: https://www.nature.com/articles/srep22675
-url_pdf: /post/protocol_2/PhosphoKit_Protocol.pdf
+  - name: Related Reference
+    url: https://www.nature.com/articles/s41587-021-00927-2
+url_pdf: /post/protocol_2/PhosphoSeq_Protocol.pdf
 
 # Featured image
 image:
