@@ -25,7 +25,7 @@ tags:
   - Source Themes
 featured: false
 
-links:git 
+links: 
   - name: Link to Vendor
     url: http://example.org
 
