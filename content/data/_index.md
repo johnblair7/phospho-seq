@@ -3,7 +3,7 @@ title: Data
 type: landing
 
 view: 3
-columns: 2
+columns: '2'
 
 sections:
   - block: collection
