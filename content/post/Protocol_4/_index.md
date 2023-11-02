@@ -1,5 +1,5 @@
 ---
-title: 'Sequencing'
+title: 'Analyzing Phospho-seq Data with Signac and Seurat'
 authors:
   - admin
 date: '2019-04-07T00:00:00Z'
@@ -21,15 +21,19 @@ publication_short: ''
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A basic guide to processing Phospho-seq data with Signac and Seurat, including useful visualizations.
 
 tags:
   - Source Themes
 featured: false
 
 links:
-  - name: Original Reference
-    url: https://www.nature.com/articles/srep22675
+  - name: Related Reference - Signac
+    url: https://www.nature.com/articles/s41592-021-01282-5
+  - name: Signac
+    url: https://stuartlab.org/signac/
+  - name: Seurat
+    url: https://satijalab.org/seurat/
 url_pdf: /post/protocol_4/PhosphoKit_Protocol.pdf
 
 # Featured image
