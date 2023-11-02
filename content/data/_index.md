@@ -3,6 +3,8 @@ title: Data
 type: landing
 
 ---
+All data is available in preprocessed Seurat Objects from [Zenodo](https://zenodo.org/record/7754315).Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression, and chromVAR scores if applicable.
+
 <!DOCTYPE html>
 <html> 
 <head> 
@@ -51,7 +53,6 @@ type: landing
 </style> 
 </head> 
 <body> 
-    All data is available in preprocessed Seurat Objects from [Zenodo](https://zenodo.org/record/7754315).Below are plots from these processed datasets emphasizing ADT expression for each ADT as well as ATAC coverage, RNA expression, and chromVAR scores if applicable.
 	<div class="dropdown"> 
 		<button class="dropdown-button">Choose an Antibody</button> 
 		<div class="dropdown-list"> 
