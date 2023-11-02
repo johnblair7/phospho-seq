@@ -55,6 +55,9 @@ All data is available in preprocessed Seurat Objects from [Zenodo](https://zenod
 /* Change the background color of the dropdown button when the dropdown list is shown */ 
 ul { 
     list-style-type: none; 
+    list-style-position: inside;
+    margin-left: 0;
+    padding-left: 0;
 } 
 </style> 
 </head> 
