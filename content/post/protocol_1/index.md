@@ -54,4 +54,3 @@ projects:
 slides:
 ---
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
