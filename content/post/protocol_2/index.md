@@ -30,7 +30,7 @@ featured: false
 links:
   - name: Related Reference
     url: https://www.nature.com/articles/s41587-021-00927-2
-url_pdf: /post/protocol_2/PhosphoSeq Protocol.pdf
+url_pdf: /post/protocol_2/PhosphoSeq_Protocol.pdf
 
 # Featured image
 image:
