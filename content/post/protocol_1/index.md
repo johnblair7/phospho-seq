@@ -34,7 +34,7 @@ url_pdf: /post/protocol_1/PhosphoKit_Protocol.pdf
 
 # Featured image
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption:
   focal_point: ''
   preview_only: false
 
