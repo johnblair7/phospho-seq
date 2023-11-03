@@ -32,7 +32,7 @@ url_pdf: /post/Protocol_5/AntibodyCleanup.pdf
 
 # Featured image
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption:
   focal_point: ''
   preview_only: false
 
@@ -51,5 +51,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
