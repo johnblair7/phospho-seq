@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Feel free to e-mail me with any questions regarding the method, protocols or anything else
+        Feel free to e-mail me (John Blair) with any questions regarding the method, protocols or anything else
       email: jblair@nygenome.org
       #contact_links:
       #  - icon: comments
