@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
--name: Antibody Purification Beads
+- name: Antibody Purification Beads
 url: https://www.promega.com/products/protein-purification/antibody-purification/magne-protein-g-and-magne-protein-a-beads/?catNum=G7471
 url_pdf: /post/Protocol_5/AntibodyCleanup.pdf
 
