@@ -30,6 +30,8 @@ featured: false
 links:
   - name: Original Reference
     url: https://www.nature.com/articles/srep22675
+      - name: Complete Adapted Protocol
+    url: https://citeseq.files.wordpress.com/2019/03/cite-seq_hyper_conjugation_190321.pdf
 url_pdf: /post/protocol_1/PhosphoKit_Protocol.pdf
 
 # Featured image
