@@ -60,8 +60,8 @@ slides:
 </style>
 
 <div class="image-container">
-    <a href="FOXG1.png">
-        <img src="test.png" alt="Alternative text for Image 1">
+    <a href="Brain Organoids">
+        <img src="FOXG1.png" alt="Alternative text for Image 1">
     </a>
     <div> Brain Organoids </div>
 </div>
