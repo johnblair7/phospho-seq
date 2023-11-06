@@ -21,7 +21,7 @@ summary: Antibody description
 
 links: 
   - name: Link to Vendor
-    url: http://example.org
+    url: https://www.rndsystems.com/products/human-mouse-gli-3-antibody_af3690
 
 # Featured image
 #image:
