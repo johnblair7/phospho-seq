@@ -22,7 +22,7 @@ summary: Antibody description
 links: 
   - name: Link to Vendor - Brain Organoid
     url: https://www.biolegend.com/en-gb/products/purified-anti-pax6-antibody-17464?Clone=AD2.35
-    - name: Link to Vendor - Retinal Organoid
+  - name: Link to Vendor - Retinal Organoid
     url: https://www.atlasantibodies.com/products/antibodies/primary-antibodies/precisa-monoclonals/pax6-antibody-amab91372/
 
 # Featured image
@@ -66,5 +66,11 @@ slides:
         <img src="PAX6.png" alt="Alternative text for Image 1">
     </a>
     <div> Brain Organoids </div>
+</div>
+<div class="image-container">
+    <a href="PAX6_ret.png">
+        <img src="PAX6_ret.png" alt="Alternative text for Image 2">
+    </a>
+    <div>Retinal Organoids</div>
 </div>
 </div>
