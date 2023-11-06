@@ -68,14 +68,14 @@ slides:
 
 <div class="image-container">
     <a href="sox2_ret.png">
-        <img src="test.png" alt="Alternative text for Image 2">
+        <img src="sox2_ret.png" alt="Alternative text for Image 2">
     </a>
     <div>Retinal Organoids</div>
 </div>
 
 <div class="image-container">
     <a href="sox2_iPS.png">
-        <img src="test.png" alt="Alternative text for Image 3">
+        <img src="sox2_iPS.png" alt="Alternative text for Image 3">
     </a>
     <div>K562 and iPSCs</div>
 </div>
