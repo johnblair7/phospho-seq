@@ -21,7 +21,7 @@ summary: Antibody description
 
 links: 
   - name: Link to Vendor
-    url: http://example.org
+    url: https://www.biolegend.com/nl-be/explore-new-products/purified-anti-sox2-antibody-8660
 
 # Featured image
 #image:
