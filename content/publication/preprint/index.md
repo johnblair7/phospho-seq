@@ -3,7 +3,6 @@ title: 'Phospho-seq: Integrated, multi-modal profiling of intracellular protein 
 authors:
   -  John D. Blair, Austin Hartman, Fides Zenk, Carol Dalgarno,Barbara Treutlein, Rahul Satija
 date: '2023-03-27'
-doi: 'https://doi.org/10.1101/2023.03.27.534442'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
