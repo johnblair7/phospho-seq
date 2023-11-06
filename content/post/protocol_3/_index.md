@@ -1,7 +1,5 @@
 ---
 title: 'Phospho-seq with the 10x Multiome Kit'
-authors:
-  - admin
 date: '2019-04-07T00:00:00Z'
 doi: ''
 
