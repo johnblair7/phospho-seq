@@ -26,13 +26,14 @@ tags:
 featured: false
 
 links:
+  - name: R Script
+    url: /post/protocol_4/PhosphoSeq_Analysis.R
   - name: Related Reference - Signac
     url: https://www.nature.com/articles/s41592-021-01282-5
   - name: Signac
     url: https://stuartlab.org/signac/
   - name: Seurat
     url: https://satijalab.org/seurat/
-url_pdf: /post/protocol_4/PhosphoSeq_Analysis.R
 
 # Featured image
 image:
