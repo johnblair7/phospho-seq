@@ -34,7 +34,7 @@ links:
     url: https://stuartlab.org/signac/
   - name: Seurat
     url: https://satijalab.org/seurat/
-url_pdf: /post/protocol_4/PhosphoKit_Protocol.pdf
+url_pdf: /post/protocol_4/PhosphoSeq_Analysis.R
 
 # Featured image
 image:
