@@ -74,6 +74,10 @@ ul {
         <li><a href="sox2/">SOX2</a></li>
         <li><a href="gli3/">GLI3</a> </li>
         <li><a href="tbr1/">TBR1</a> </li>
+        <li><a href="OTX2/">OTX2</a> </li>
+        <li><a href="PAX6/">PAX6</a> </li>
+        <li><a href="NEUROD1/">NEUROD1</a> </li>
+        <li><a href="NFIB/">NFIB</a> </li>
     </ul>
     </div>
 </body> 
