@@ -63,19 +63,19 @@ slides:
     <a href="test.png">
         <img src="test.png" alt="Alternative text for Image 1">
     </a>
-    <div>Dataset 1</div>
+    <div>Brain Organoids</div>
 </div>
 
 <div class="image-container">
-    <a href="test.png">
+    <a href="sox2_ret.png">
         <img src="test.png" alt="Alternative text for Image 2">
     </a>
-    <div>Dataset 2</div>
+    <div>Retinal Organoids</div>
 </div>
 
 <div class="image-container">
-    <a href="test.png">
+    <a href="sox2_iPS.png">
         <img src="test.png" alt="Alternative text for Image 3">
     </a>
-    <div>Dataset 3</div>
+    <div>K562 and iPSCs</div>
 </div>
