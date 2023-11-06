@@ -7,6 +7,16 @@ title: Phospho-seq # Website name
 baseURL: 'http://phospho-seq.netlify.app' # Website URL
 
 ############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Blog post options
+  - _target:
+      path: /post/**
+    reading_time: false
+
+############################
 ## LANGUAGE
 ############################
 
