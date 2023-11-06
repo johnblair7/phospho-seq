@@ -73,10 +73,7 @@ ul {
     <ul class="dropdown-list">
         <li><a href="sox2/">SOX2</a></li>
         <li><a href="gli3/">GLI3</a> </li>
-        <li><a href="#">TBR1</a> </li>
-        <li><a href="#">TEST1</a> </li>
-        <li><a href="#">TEST2</a> </li>
-        <li><a href="#">TEST3</a> </li>
+        <li><a href="tbr1/">TBR1</a> </li>
     </ul>
     </div>
 </body> 
