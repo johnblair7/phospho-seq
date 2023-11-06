@@ -78,6 +78,7 @@ ul {
         <li><a href="PAX6/">PAX6</a> </li>
         <li><a href="NEUROD1/">NEUROD1</a> </li>
         <li><a href="NFIB/">NFIB</a> </li>
+        <li><a href="FOXG1/">FOXG1</a> </li>
     </ul>
     </div>
 </body> 
