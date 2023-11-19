@@ -60,9 +60,15 @@ slides:
 </style>
 
 <div class="image-container">
-    <a href="NEUROD1.png">
-        <img src="NEUROD1.png" alt="Alternative text for Image 1">
+    <a href="NEUROD1_bo.png">
+        <img src="NEUROD1_bo.png" alt="Alternative text for Image 1">
     </a>
     <div> Brain Organoids </div>
+</div>
+<div class="image-container">
+    <a href="NEUROD1_ret.png">
+        <img src="NEUROD1_ret.png" alt="Alternative text for Image 1">
+    </a>
+    <div> Retinal Organoids </div>
 </div>
 </div>
