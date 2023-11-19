@@ -79,6 +79,10 @@ ul {
         <li><a href="NEUROD1/">NEUROD1</a> </li>
         <li><a href="NFIB/">NFIB</a> </li>
         <li><a href="FOXG1/">FOXG1</a> </li>
+        <li><a href="AIPL1/">AIPL1</a> </li>
+        <li><a href="AMPK/">AMPK</a> </li>
+        <li><a href="Bactin/">BACTIN</a> </li>
+        <li><a href="Bassoon/">BASSOON</a> </li>
     </ul>
     </div>
 </body> 
