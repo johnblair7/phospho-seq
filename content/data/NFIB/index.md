@@ -60,8 +60,8 @@ slides:
 </style>
 
 <div class="image-container">
-    <a href="NFIB.png">
-        <img src="NFIB.png" alt="Alternative text for Image 1">
+    <a href="NFIB_bo.png">
+        <img src="NFIB_bo.png" alt="Alternative text for Image 1">
     </a>
     <div> Brain Organoids </div>
 </div>
