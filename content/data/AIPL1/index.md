@@ -21,7 +21,7 @@ summary: Antibody description
 
 links: 
   - name: Link to Vendor
-    url: https://www.ptglab.com/products/AIPL1-Antibody-15108-1-AP.htm
+    url: https://www.ptglab.com/products/AIPL1-Antibody-15108-1-AP.html
 
 # Featured image
 #image:
