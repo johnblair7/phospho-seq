@@ -62,8 +62,8 @@ slides:
 </style>
 
 <div class="image-container">
-    <a href="PAX6.png">
-        <img src="PAX6.png" alt="Alternative text for Image 1">
+    <a href="PAX6_bo.png">
+        <img src="PAX6_bo.png" alt="Alternative text for Image 1">
     </a>
     <div> Brain Organoids </div>
 </div>
