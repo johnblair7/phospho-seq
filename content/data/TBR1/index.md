@@ -60,8 +60,8 @@ slides:
 </style>
 
 <div class="image-container">
-    <a href="TBR1.png">
-        <img src="TBR1.png" alt="Alternative text for Image 1">
+    <a href="TBR1_bo.png">
+        <img src="TBR1_bo.png" alt="Alternative text for Image 1">
     </a>
     <div> Brain Organoids </div>
 </div>
