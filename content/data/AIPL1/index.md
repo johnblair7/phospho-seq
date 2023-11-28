@@ -1,5 +1,5 @@
 ---
-title: 'AMPK'
+title: 'AIPL1'
 date: '2019-04-07T00:00:00Z'
 doi: ''
 
@@ -21,7 +21,7 @@ summary: Antibody description
 
 links: 
   - name: Link to Vendor
-    url: https://www.ptglab.com/products/AIPL1-Antibody-15108-1-AP.html
+    url: https://www.ptglab.com/products/AIPL1-Antibody-15108-1-AP.htm
 
 # Featured image
 #image:
