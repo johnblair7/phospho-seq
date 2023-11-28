@@ -162,7 +162,7 @@ ul {
         <li><a href="ULK1/">ULK1</a> </li>
         <li><a href="VGLUT1/">VGLUT1</a> </li>
         <li><a href="Vim/">Vim</a> </li>
-        <li><a href="YAPTAZ/">YAPTAZ</a> </li>
+        <li><a href="YAPTAZ/">YAP1</a> </li>
     </ul>
     </div>
 </body> 
