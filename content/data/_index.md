@@ -71,7 +71,7 @@ ul {
     <button class="dropdown-button" type="button" data-toggle="dropdown">Choose an Antibody
     <span class="caret"></span></button>
     <ul class="dropdown-list">
-        <li><a href="AIPL1/">AIPL1</a></li>
+        <li><a href="AIPL1/">AIPL1</a> </li>
         <li><a href="AMPK/">AMPK</a> </li>
         <li><a href="Bactin/">Bactin</a> </li>
         <li><a href="Bassoon/">Bassoon</a> </li>
@@ -95,7 +95,7 @@ ul {
         <li><a href="Gephyrin/">Gephyrin</a> </li>
         <li><a href="gli3/">GLI3</a> </li>
         <li><a href="GLUR2/">GLUR2</a> </li>
-        <li><a href="GluR4/">GLUR4</a></li>
+        <li><a href="GluR4/">GLUR4</a> </li>
         <li><a href="GSK3B/">GSK3B</a> </li>
         <li><a href="GTubulin/">GTubulin</a> </li>
         <li><a href="HOPX/">HOPX</a> </li>
@@ -129,7 +129,7 @@ ul {
         <li><a href="pJAK1/">pJAK1</a> </li>
         <li><a href="pJNK1/">pJNK1</a> </li>
         <li><a href="PKCa/">PKCa</a> </li>
-        <li><a href="PKCb1/">PKCb1</a></li>
+        <li><a href="PKCb1/">PKCb1</a> </li>
         <li><a href="PLCy/">PLCy</a> </li>
         <li><a href="pMAPK/">pMAPK</a> </li>
         <li><a href="pMEK/">pMEK</a> </li>
