@@ -27,11 +27,13 @@ tags:
 featured: false
 
 links:
+  - name: Final Publication
+    url: https://www.nature.com/articles/s41467-025-56590-7
   - name: BioRxiv
     url: https://www.biorxiv.org/content/10.1101/2023.03.27.534442v1
   - name: Virtual Seminar
     url: https://www.youtube.com/watch?v=t3gB4d-bL3k&list=PLjQZKjoruRx3lptKa7D5psMDrTwtH-3PT&index=20
-url_pdf: https://www.biorxiv.org/content/10.1101/2023.03.27.534442v1.full.pdf
+url_pdf: https://www.nature.com/articles/s41467-025-56590-7.pdf
 
 
 # Featured image
