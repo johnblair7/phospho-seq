@@ -29,8 +29,11 @@ featured: false
 
 links:
   - name: Related Reference
-    url: www.biorxiv.org
+    url: https://www.biorxiv.org
+  - name: ADT, OligoHash and Guide Quantification Script
+    url: /post/protocol_6/quant.ipynb
 url_pdf: /post/protocol_6/PGFlexProtocol.pdf
+
 
 # Featured image
 image:
