@@ -31,7 +31,7 @@ links:
   - name: Related Reference
     url: https://www.biorxiv.org
   - name: ADT, OligoHash and Guide Quantification Script
-    url: /post/protocol_6/quant.ipynb
+    url: /files/quant.ipynb
 url_pdf: /post/protocol_6/PGFlexProtocol.pdf
 
 
