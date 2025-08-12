@@ -16,7 +16,9 @@ Use the tool below to generate complementary DNA sequences to mRNA. Simply enter
     height="800px" 
     frameborder="0"
     allowfullscreen
-    style="border: 1px solid #ddd; border-radius: 8px; min-height: 800px;">
+    style="border: 1px solid #ddd; border-radius: 8px; min-height: 800px;"
+    onload="console.log('ProbeMaker iframe loaded successfully')"
+    onerror="console.log('ProbeMaker iframe failed to load')">
 </iframe>
 
 ## How to Use
