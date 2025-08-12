@@ -10,7 +10,14 @@ draft: false
 
 Use the tool below to generate complementary DNA sequences to mRNA. Simply enter your gene names (one per line) and click generate!
 
-<iframe src="/files/probe_maker_standalone.html" width="100%" height="800px"></iframe>
+<iframe 
+    src="/files/probe_maker_standalone.html" 
+    width="100%" 
+    height="800px" 
+    frameborder="0"
+    allowfullscreen
+    style="border: 1px solid #ddd; border-radius: 8px; min-height: 800px;">
+</iframe>
 
 ## How to Use
 
