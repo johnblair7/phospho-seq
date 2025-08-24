@@ -32,7 +32,7 @@ links:
     url: https://www.biorxiv.org
   - name: ADT, OligoHash and Guide Quantification Script
     url: /files/quant.ipynb
-url_pdf: /post/protocol_6/PGFlexProtocol.pdf
+url_pdf: /post/protocol_6/FlexPlexProtocol.pdf
 
 
 # Featured image
