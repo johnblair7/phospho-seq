@@ -20,7 +20,7 @@ publication_short: ''
 abstract: Cell signaling plays a critical role in regulating cellular behavior and fate. While multimodal single-cell sequencing technologies are rapidly advancing, scalable and flexible profiling of cell signaling states alongside other molecular modalities remains challenging. Here we present Phospho-seq, an integrated approach that aims to quantify phosphorylated intracellular and intranuclear proteins, and to connect their activity with cis-regulatory elements and transcriptional targets. We utilize a simplified benchtop antibody conjugation method to create large custom antibody panels for simultaneous protein and scATAC-seq profiling on whole cells, and integrate this information with scRNA-seq datasets via bridge integration. We apply our workflow to cell lines, induced pluripotent stem cells, and 3-month-old brain organoids to demonstrate its broad applicability. We demonstrate that Phospho-seq can define cellular states and trajectories, reconstruct gene regulatory relationships, and characterize the causes and consequences of heterogeneous cell signaling in neurodevelopment.
 
 # Summary. An optional shortened abstract.
-summary: Phospho-seq is a multimodal single cell genomics method to measure intracellular proteins, chromatin accessibility and gene expression
+summary: Phospho-seq is a multimodal single cell genomics method to measure intracellular proteins, chromatin accessibility and gene expression <span style="background-color: #007bff; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">Phospho-seq</span>
 
 tags:
   - Source Themes
@@ -33,13 +33,6 @@ links:
     url: https://www.biorxiv.org/content/10.1101/2023.03.27.534442v1
   - name: Virtual Seminar
     url: https://www.youtube.com/watch?v=t3gB4d-bL3k&list=PLjQZKjoruRx3lptKa7D5psMDrTwtH-3PT&index=20
-  - name: Technology
-    url: "#"
-    icon_pack: fas
-    icon: tag
-    badge: true
-    badge_text: "Phospho-seq"
-    badge_color: "blue"
 url_pdf: https://www.nature.com/articles/s41467-025-56590-7.pdf
 
 

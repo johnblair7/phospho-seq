@@ -44,7 +44,7 @@ publication_short: ''
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: Single-cell genotype-phenotype mapping identifies therapeutic vulnerabilities in VEXAS syndrome
+summary: Single-cell genotype-phenotype mapping identifies therapeutic vulnerabilities in VEXAS syndrome <span style="background-color: #007bff; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">Phospho-seq</span>
 
 tags:
   - Source Themes
@@ -53,13 +53,6 @@ featured: false
 links:
   - name: BioRxiv
     url: https://www.biorxiv.org/content/10.1101/2024.05.19.594376v2
-  - name: Technology
-    url: "#"
-    icon_pack: fas
-    icon: tag
-    badge: true
-    badge_text: "Phospho-seq"
-    badge_color: "blue"
 url_pdf: https://www.biorxiv.org/content/biorxiv/early/2024/05/20/2024.05.19.594376.full.pdf
 
 

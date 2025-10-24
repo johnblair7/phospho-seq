@@ -27,7 +27,7 @@ publication_short: ''
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: Mapping transcriptional responses to cellular perturbation dictionaries with RNA fingerprinting
+summary: Mapping transcriptional responses to cellular perturbation dictionaries with RNA fingerprinting <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">FlexPlex</span>
 
 tags:
   - Source Themes
@@ -36,13 +36,6 @@ featured: false
 links:
   - name: BioRxiv
     url: https://www.biorxiv.org/content/10.1101/2025.09.19.676866v1
-  - name: Technology
-    url: "#"
-    icon_pack: fas
-    icon: tag
-    badge: true
-    badge_text: "FlexPlex"
-    badge_color: "green"
 url_pdf: https://www.biorxiv.org/content/10.1101/2025.09.19.676866v1.full.pdf
 
 
