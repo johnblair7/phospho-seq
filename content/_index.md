@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Phospho-seq
+        Phospho-seq and FlexPlex
       image:
         filename: nowires.png
       text: |
         <br>
         
-        Phospho-seq is a multimodal single-cell genomics method to profile cytoplasmic proteins, cell surface proteins, nuclear proteins and phosphorylated proteins alongside chromatin accessbility 
+        Phospho-seq and FlexPlex are multimodal single-cell genomics methods to profile cytoplasmic proteins, cell surface proteins, nuclear proteins and phosphorylated proteins alongside chromatin accessbility and RNA 
   
 ---
 title: My page
