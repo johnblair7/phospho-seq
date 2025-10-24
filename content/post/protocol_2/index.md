@@ -1,7 +1,5 @@
 ---
-title: 'Phospho-seq with 10X ATAC-seq kit'
-authors:
-  - admin
+title: 'Antibody Conjugation'
 date: '2019-04-07T00:00:00Z'
 doi: ''
 
@@ -21,16 +19,18 @@ publication_short: ''
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: A guide to running Phospho-seq with the 10x scATAC kit.
+summary: A guide to conjugating antibodies with TCO-labeled oligos, as provided in the Phospho-seq kit.
 
 tags:
   - Source Themes
 featured: false
 
 links:
-  - name: Related Reference
-    url: https://www.nature.com/articles/s41587-021-00927-2
-url_pdf: /post/protocol_2/PhosphoSeq_Protocol.pdf
+  - name: Original Reference
+    url: https://www.nature.com/articles/srep22675
+  - name: Protocol with Oligo Labeling
+    url: https://citeseq.files.wordpress.com/2019/03/cite-seq_hyper_conjugation_190321.pdf
+url_pdf: /post/protocol_1/PhosphoKit_Protocol.pdf
 
 # Featured image
 image:
@@ -53,3 +53,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+

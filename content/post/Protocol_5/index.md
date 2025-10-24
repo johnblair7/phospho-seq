@@ -1,5 +1,7 @@
 ---
-title: 'Preparing Antibodies for Conjugation'
+title: 'FlexPlex'
+authors:
+  - 
 date: '2019-04-07T00:00:00Z'
 doi: ''
 
@@ -19,16 +21,19 @@ publication_short: ''
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: A quick protocol to clean up antibodies with Promega Magne Beads to prepare them for conjugation with the Phospho-seq kit.
+summary: A guide to running FlexPlex, which quantifies protein, guides, oligohashes and RNA using the 10x Flex kit.
 
 tags:
   - Source Themes
 featured: false
 
 links:
-  - name: Antibody Purification Beads
-    url: https://www.promega.com/products/protein-purification/antibody-purification/magne-protein-g-and-magne-protein-a-beads/?catNum=G7471
-url_pdf: /post/Protocol_5/AntibodyCleanup.pdf
+  - name: Related Reference
+    url: https://www.biorxiv.org
+  - name: ADT, OligoHash and Guide Quantification Script
+    url: /files/quant.ipynb
+url_pdf: /post/protocol_6/FlexPlexProtocol.pdf
+
 
 # Featured image
 image:
