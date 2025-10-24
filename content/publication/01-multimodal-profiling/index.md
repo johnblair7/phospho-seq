@@ -24,7 +24,7 @@ publication_short: ''
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: Iterative, multimodal, and scalable single-cell profiling for discovery and characterization of signaling regulators <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">FlexPlex</span>
+summary: Iterative, multimodal, and scalable single-cell profiling for discovery and characterization of signaling regulators [FlexPlex]
 
 tags:
   - Source Themes

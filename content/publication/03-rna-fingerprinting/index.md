@@ -27,7 +27,7 @@ publication_short: ''
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: Mapping transcriptional responses to cellular perturbation dictionaries with RNA fingerprinting <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">FlexPlex</span>
+summary: Mapping transcriptional responses to cellular perturbation dictionaries with RNA fingerprinting [FlexPlex]
 
 tags:
   - Source Themes
