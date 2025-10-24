@@ -1,18 +1,15 @@
 ---
-title: 'Mapping transcriptional responses to cellular perturbation dictionaries with RNA fingerprinting'
+title: 'Iterative, multimodal, and scalable single-cell profiling for discovery and characterization of signaling regulators'
 authors:
-  - Isabella N. Grabski
-  - Junsuk Lee
-  - John Blair
-  - Carol Dalgarno
-  - Isabella Mascio
+  - John D. Blair
   - Alexandra Bradu
-  - David A. Knowles
+  - Carol Dalgarno
+  - Isabella N. Grabski
   - Rahul Satija
-date: '2025-09-19'
+date: '2025-08-27'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-09-19T00:00:00Z'
+publishDate: '2025-08-27T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,13 +18,13 @@ publishDate: '2025-09-19T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Mapping transcriptional responses to cellular perturbation dictionaries with RNA fingerprinting'
+publication: 'Iterative, multimodal, and scalable single-cell profiling for discovery and characterization of signaling regulators'
 publication_short: ''
 
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: Mapping transcriptional responses to cellular perturbation dictionaries with RNA fingerprinting
+summary: Iterative, multimodal, and scalable single-cell profiling for discovery and characterization of signaling regulators
 
 tags:
   - Source Themes
@@ -35,8 +32,15 @@ featured: false
 
 links:
   - name: BioRxiv
-    url: https://www.biorxiv.org/content/10.1101/2025.09.19.676866v1
-url_pdf: https://www.biorxiv.org/content/10.1101/2025.09.19.676866v1.full.pdf
+    url: https://www.biorxiv.org/content/10.1101/2025.08.27.672635v2
+  - name: Technology
+    url: "#"
+    icon_pack: fas
+    icon: tag
+    badge: true
+    badge_text: "FlexPlex"
+    badge_color: "green"
+url_pdf: https://www.biorxiv.org/content/10.1101/2025.08.27.672635v2.full.pdf
 
 
 # Featured image

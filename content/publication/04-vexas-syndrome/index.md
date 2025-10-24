@@ -1,15 +1,35 @@
 ---
-title: 'Iterative, multimodal, and scalable single-cell profiling for discovery and characterization of signaling regulators'
+title: 'Single-cell genotype-phenotype mapping identifies therapeutic vulnerabilities in VEXAS syndrome'
 authors:
+  - Saravanan Ganesan
+  - Rebecca M. Murray
+  - Jesus Sotelo
+  - Elliot O. Eton
+  - Kouhei Takashima
+  - Theo Botella
+  - Kai Beattie
+  - Alyssa C. Indart
+  - Nada Chraiki
+  - Carolyne Croizier
+  - Franco Izzo
+  - Catherine Potenski
+  - Samuele Marro
+  - Zhijie Wu
+  - Shouguo Gao
+  - Neal S. Young
   - John D. Blair
-  - Alexandra Bradu
-  - Carol Dalgarno
-  - Isabella N. Grabski
   - Rahul Satija
-date: '2025-08-27'
+  - Benjamin Terrier
+  - Mael Heiblig
+  - Eirini P Papapetrou
+  - Pierre Sujobert
+  - Olivier Kosmider
+  - David B. Beck
+  - Dan A. Landau
+date: '2024-05-19'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-08-27T00:00:00Z'
+publishDate: '2024-05-19T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,13 +38,13 @@ publishDate: '2025-08-27T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Iterative, multimodal, and scalable single-cell profiling for discovery and characterization of signaling regulators'
+publication: 'Single-cell genotype-phenotype mapping identifies therapeutic vulnerabilities in VEXAS syndrome'
 publication_short: ''
 
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: Iterative, multimodal, and scalable single-cell profiling for discovery and characterization of signaling regulators
+summary: Single-cell genotype-phenotype mapping identifies therapeutic vulnerabilities in VEXAS syndrome
 
 tags:
   - Source Themes
@@ -32,8 +52,15 @@ featured: false
 
 links:
   - name: BioRxiv
-    url: https://www.biorxiv.org/content/10.1101/2025.08.27.672635v2
-url_pdf: https://www.biorxiv.org/content/10.1101/2025.08.27.672635v2.full.pdf
+    url: https://www.biorxiv.org/content/10.1101/2024.05.19.594376v2
+  - name: Technology
+    url: "#"
+    icon_pack: fas
+    icon: tag
+    badge: true
+    badge_text: "Phospho-seq"
+    badge_color: "blue"
+url_pdf: https://www.biorxiv.org/content/biorxiv/early/2024/05/20/2024.05.19.594376.full.pdf
 
 
 # Featured image

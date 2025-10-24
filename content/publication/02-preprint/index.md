@@ -33,6 +33,13 @@ links:
     url: https://www.biorxiv.org/content/10.1101/2023.03.27.534442v1
   - name: Virtual Seminar
     url: https://www.youtube.com/watch?v=t3gB4d-bL3k&list=PLjQZKjoruRx3lptKa7D5psMDrTwtH-3PT&index=20
+  - name: Technology
+    url: "#"
+    icon_pack: fas
+    icon: tag
+    badge: true
+    badge_text: "Phospho-seq"
+    badge_color: "blue"
 url_pdf: https://www.nature.com/articles/s41467-025-56590-7.pdf
 
 
