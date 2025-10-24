@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Phospho-seq and FlexPlex - TEST DEPLOYMENT
+        Phospho-seq and FlexPlex
       image:
         filename: nowires.png
       text: |
