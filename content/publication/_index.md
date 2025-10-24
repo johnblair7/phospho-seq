@@ -1,5 +1,5 @@
 ---
-title: Publications - UPDATED AGAIN
+title: Publications
 view: compact
 sort_by: weight
 sort_ascending: true
