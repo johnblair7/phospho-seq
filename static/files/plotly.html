@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plotly Visualization</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #2c3e50;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: #3498db;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            color: #7f8c8d;
+        }
+
+        #plotly-container {
+            width: 100%;
+            min-height: 500px;
+            margin: 20px 0;
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+        }
+
+        .info-box {
+            background: #e3f2fd;
+            border: 1px solid #bbdefb;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #0d47a1;
+        }
+
+        .info-box strong {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Plotly Visualization</h1>
+            <p>Interactive data visualization</p>
+        </div>
+
+        <div id="plotly-container">
+            <!-- Plotly chart will be rendered here -->
+        </div>
+
+        <div class="info-box">
+            <strong>Usage:</strong>
+            <p>This page automatically loads a Plotly JSON file. To use it:</p>
+            <ol style="margin-left: 20px; margin-top: 10px;">
+                <li>Save your R Plotly visualization as JSON (see R code examples below)</li>
+                <li>Upload the JSON file to <code>static/files/</code> directory</li>
+                <li>Access via: <code>plotly.html?json=your-figure.json</code></li>
+                <li>Or rename your file to <code>plotly-figure.json</code> for default loading</li>
+            </ol>
+        </div>
+    </div>
+
+    <script>
+        var config = {
+            responsive: true,
+            displayModeBar: true,
+            displaylogo: false,
+            modeBarButtonsToRemove: ['lasso2d', 'select2d']
+        };
+
+        // Function to load and render a Plotly JSON figure
+        function loadPlotlyJSON(jsonPath) {
+            fetch(jsonPath)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('File not found');
+                    }
+                    return response.json();
+                })
+                .then(figure => {
+                    // Handle different Plotly JSON formats
+                    if (figure.data && figure.layout) {
+                        // Standard format: {data: [...], layout: {...}}
+                        Plotly.newPlot('plotly-container', figure.data, figure.layout, config);
+                    } else if (Array.isArray(figure.data)) {
+                        // Format from plotly_build: data is array, layout is separate
+                        Plotly.newPlot('plotly-container', figure.data, figure.layout || {}, config);
+                    } else if (figure.x && figure.y) {
+                        // Single trace format
+                        Plotly.newPlot('plotly-container', [figure], {}, config);
+                    } else {
+                        // Try to render anyway - Plotly might handle it
+                        console.warn('Unexpected format, attempting to render:', figure);
+                        Plotly.newPlot('plotly-container', figure, {}, config);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading plot:', error);
+                    document.getElementById('plotly-container').innerHTML = 
+                        '<p style="text-align: center; color: #e74c3c; padding: 40px;">Error loading visualization. Please check the file path.</p>';
+                });
+        }
+
+        // Check for JSON file in URL parameter or use default
+        const urlParams = new URLSearchParams(window.location.search);
+        const jsonFile = urlParams.get('json') || 'plotly-figure.json';
+        
+        // Try to load the JSON file
+        loadPlotlyJSON(jsonFile);
+    </script>
+</body>
+</html>
+
