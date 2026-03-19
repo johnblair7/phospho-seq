@@ -31,6 +31,8 @@ links:
   - name: 10x Flex Custom RNA Probe Maker
     url: /files/probe_maker_standalone.html
     
+  - name: CRISPR Seed Finder (lite)
+    url: /seed-finder/
 
 
 # Featured image
