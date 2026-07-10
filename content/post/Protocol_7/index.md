@@ -33,6 +33,9 @@ links:
     
   - name: CRISPR Seed Finder (lite)
     url: /seed-finder/
+    
+  - name: CRISPR Seed Hit Browser
+    url: /seed-hit-browser/
 
 
 # Featured image
