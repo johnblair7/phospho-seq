@@ -22,6 +22,25 @@ main:
   - name: Starter Kits
     url: kits
     weight: 60
+  - name: Tools
+    identifier: tools
+    weight: 65
+  - name: ProbeMaker
+    parent: tools
+    url: probe-maker
+    weight: 10
+  - name: Seed Finder
+    parent: tools
+    url: seed-finder
+    weight: 20
+  - name: Seed Hit Browser
+    parent: tools
+    url: seed-hit-browser
+    weight: 30
+  - name: Flex v2 Cost Calculator
+    parent: tools
+    url: flex-v2-cost-calculator
+    weight: 40
   - name: Contact
     url: contact
     weight: 70
