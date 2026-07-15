@@ -37,6 +37,9 @@ links:
   - name: CRISPR Seed Hit Browser
     url: /seed-hit-browser/
 
+  - name: Flex v2 Cost Calculator
+    url: /flex-v2-cost-calculator/
+
 
 # Featured image
 image:
