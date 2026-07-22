@@ -30,7 +30,7 @@ links:
     url: https://www.nature.com/articles/srep22675
   - name: Protocol with Oligo Labeling
     url: https://citeseq.files.wordpress.com/2019/03/cite-seq_hyper_conjugation_190321.pdf
-url_pdf: /post/protocol_1/PhosphoKit_Protocol.pdf
+url_pdf: /post/protocol_2/PhosphoKit_Protocol.pdf
 
 # Featured image
 image:
@@ -53,4 +53,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-

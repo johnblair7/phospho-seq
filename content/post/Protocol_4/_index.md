@@ -28,7 +28,7 @@ featured: false
 links:
   - name: Related Reference
     url: https://www.nature.com/articles/s41592-022-01461-y
-url_pdf: /post/protocol_3/PhosphoseqMulti_Protocol.pdf
+url_pdf: /post/protocol_4/PhosphoseqMulti_Protocol.pdf
 
 # Featured image
 image:
